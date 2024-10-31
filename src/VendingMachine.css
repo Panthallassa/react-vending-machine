@@ -1,0 +1,13 @@
+.VendingMachine {
+	text-align: center;
+	padding: 20px;
+}
+
+.VendingMachine ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+.VendingMachine li {
+	margin: 10px 0;
+}
